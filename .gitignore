@@ -16,6 +16,10 @@ local.properties
 .settings/
 .loadpath
 
+# Sublime
+taboo.sublime-workspace
+taboo.sublime-project
+
 # External tool builders
 .externalToolBuilders/
 
