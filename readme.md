@@ -19,4 +19,4 @@ You can see a live demo [here](http://taboo.plankenau.com/)
 
 ###Database###
 
-All cards are stored in a mySQL database, the structure of which is saved in `database.sql`
+All cards are stored in a mySQL database, the structure of which is saved in `cards_structure.sql`, and the structure+demo cards in `cards.sql`
