@@ -1,0 +1,221 @@
+body{
+	background: #680BAB;
+/*	background-image:url('../img/square_bg.png');*/
+	background-repeat:repeat;
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+.container-narrow {
+	margin: 0 auto;
+	max-width: 1020px;
+}
+.headline{
+    margin: 60px 0;
+    text-align: center;
+    margin-bottom:-10px;
+}
+.headline h1{
+	font-size: 72px;
+    line-height: 1;
+    color: #fff;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+.headline h2{
+	font-size: 36px;
+    line-height: 1;
+    color: #DDDDDD;
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+.module{
+	text-align: center;
+	padding-left: 15px;
+	margin-top: 20px;
+	height:240px;
+	text-align: left;
+}
+.name{
+	font-size:24px;
+	color:white;
+}
+.taboo{
+	font-size:20px;
+	color:white
+}
+.loader{
+	color:white;
+	text-align: center;
+	margin-top:150px;
+	height:310px;
+}
+.results{
+	color:white;
+	text-align: center;
+	margin-top:150px;
+	height:310px;
+}
+.results h2{
+	font-size: 46px;
+	color:white;
+	text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+.score h2{
+	font-size: 22px;
+	color:white;
+	text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+.card{
+	text-align: center;
+}
+.cardTop input{
+	margin-top:15px;
+}
+.cardBody input{
+	margin-top:25px;
+}
+.card h2{
+	padding-bottom:20px;
+}
+.cardTop{
+	padding-left: 15px;
+	padding-top:5px;
+	margin-top: 20px;
+	height:70px;
+	text-align: left;
+}
+.cardBody{
+	padding-left: 15px;
+	margin-top: 20px;
+	height:350px;
+	text-align: left;
+}
+.addBtn{
+	color:white;
+	text-decoration: none;
+}
+.addBtn:hover{
+	color:white;
+	text-decoration: none;
+}
+.module2{
+	text-align: center;
+	padding-left: 15px;
+	margin-top: 20px;
+	text-align: left;
+}
+.controls{
+	padding-top:20px;
+	text-align: center;
+}
+.controlText{
+	padding-top:5px;
+}
+.orange{
+	color:white;
+	background-color: #FF9C00;
+	-moz-box-shadow:    5px 5px 0px 0px #C47500;
+	-webkit-box-shadow: 5px 5px 0px 0px #C47500;
+	box-shadow:         5px 5px 0px 0px #C47500;
+}
+.red{
+	color:white;
+	background-color: #ED002F;
+	-moz-box-shadow:    5px 5px 0px 0px #B90025;
+	-webkit-box-shadow: 5px 5px 0px 0px #B90025;
+	box-shadow:         5px 5px 0px 0px #B90025;
+}
+.blue{
+	color:white;
+	background-color: #1049A9;
+	-moz-box-shadow:    5px 5px 0px 0px #5B2680;
+	-webkit-box-shadow: 5px 5px 0px 0px #5B2680;
+	box-shadow:         5px 5px 0px 0px #5B2680;
+}
+.green2{
+	color:white;
+	background-color: #006D4F;
+	-moz-box-shadow:    5px 5px 0px 0px #004D37;
+	-webkit-box-shadow: 5px 5px 0px 0px #004D37;
+	box-shadow:         5px 5px 0px 0px #004D37;
+}
+.orange2{
+	color:white;
+	background-color: #A66500;
+	-moz-box-shadow:    5px 5px 0px 0px #804D00;
+	-webkit-box-shadow: 5px 5px 0px 0px #804D00;
+	box-shadow:         5px 5px 0px 0px #804D00;
+}
+.red2{
+	color:white;
+	background-color: #9A001E;
+	-moz-box-shadow:    5px 5px 0px 0px #680015;
+	-webkit-box-shadow: 5px 5px 0px 0px #680015;
+	box-shadow:         5px 5px 0px 0px #680015;
+}
+.green2:hover{
+	color:white;
+	cursor:pointer;
+	background-color: #1F7D63;
+	-moz-box-shadow:    5px 5px 0px 0px #006D4F;
+	-webkit-box-shadow: 5px 5px 0px 0px #006D4F;
+	box-shadow:         5px 5px 0px 0px #006D4F;
+}
+.orange2:hover{
+	color:white;
+	cursor: pointer;
+	background-color: #BF8830;
+	-moz-box-shadow:    5px 5px 0px 0px #A66500;
+	-webkit-box-shadow: 5px 5px 0px 0px #A66500;
+	box-shadow:         5px 5px 0px 0px #A66500;
+}
+.red2:hover{
+	color:white;
+	cursor:pointer;
+	background-color: #B02C4B;
+	-moz-box-shadow:    5px 5px 0px 0px #9A001E;
+	-webkit-box-shadow: 5px 5px 0px 0px #9A001E;
+	box-shadow:         5px 5px 0px 0px #9A001E;
+}
+.back{
+	width:50px;
+	height:45px;
+	text-align: center;
+	position: fixed;
+	padding-top:15px;
+	padding-bottom:18px;
+	left: 10px;
+	top: 50%;
+	color:white;
+	text-decoration: none;
+}
+.back a{
+	color:white;
+}
+.back:hover{
+	text-decoration: none;
+	cursor:pointer;
+	color:white;
+	background-color: #FF9C00;
+	-moz-box-shadow:    5px 5px 0px 0px #C47500;
+	-webkit-box-shadow: 5px 5px 0px 0px #C47500;
+	box-shadow:         5px 5px 0px 0px #C47500;
+}
+.pixel{
+	top:50%;
+	left:50%;
+	width:50px;
+	height:50px;
+}
+.link{
+	padding:10px;
+	cursor:pointer;
+}
+.link:hover{
+	color:white;
+	background-color: #FF9C00;
+	-moz-box-shadow:    5px 5px 0px 0px #C47500;
+	-webkit-box-shadow: 5px 5px 0px 0px #C47500;
+	box-shadow:         5px 5px 0px 0px #C47500;
+}
+.link h2{
+	padding-bottom:20px;
+}
